@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
+import Link from "next/link";
 
 //Styles
 import styles from "../styles/Header.module.css";
@@ -17,7 +18,9 @@ const Header = () => {
               style={{ maxHeight: "100px" }}
               navbarScroll
             >
-              <h3 className={styles["header"]}>Podcaster</h3>
+              <Link href="/" style={{ textDecoration: "none" }}>
+                <h3 className={styles["header"]}>Podcaster</h3>
+              </Link>
             </Nav>
           </Navbar.Collapse>
         </Container>

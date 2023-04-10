@@ -1,0 +1,38 @@
+.podcast-image {
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.podcast-title{
+  margin-top: 20px;
+  margin-left: 10px;  
+}
+
+.podcast-author{
+  margin-left: 10px;  
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.podcast-description{
+  font-style: italic;
+}
+
+.episodes-number{
+  margin-left: 100px;
+  margin-bottom: 30px;
+}
+
+.episodes{
+  margin-left: 100px;
+}
+
+.episodes .headers{
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.episodes .gray{
+  background-color: rgb(212, 208, 208);
+}

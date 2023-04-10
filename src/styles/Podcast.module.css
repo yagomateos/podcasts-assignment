@@ -1,0 +1,20 @@
+.podcast {
+  margin-bottom: 100px;
+}
+
+.podcast .card {
+  height: 100%;
+}
+
+.podcast .circle-img {
+  border-radius: 50%;
+  padding-bottom: 10%;
+  padding-top: 5%;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.podcast .card-body {
+  text-align: center;
+  color: black;
+}

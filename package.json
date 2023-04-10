@@ -1,0 +1,25 @@
+{
+  "name": "zara-assignment",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "prod": "next",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next build & next export -o build"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.4",
+    "next": "13.3.0",
+    "node-fetch": "^3.3.1",
+    "react": "18.2.0",
+    "react-audio-player": "^0.17.0",
+    "react-bootstrap": "^2.7.2",
+    "react-dom": "18.2.0",
+    "react-router-dom": "^6.10.0",
+    "sass": "^1.61.0"
+  }
+}

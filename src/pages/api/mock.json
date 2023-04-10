@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "episodeId": "1",
+      "title": "Episode 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam at lectus massa. Donec vitae finibus neque. Morbi posuere viverra feugiat. Praesent non enim ac leo semper molestie dignissim quis diam. Mauris fermentum turpis sit amet mauris interdum pulvinar. Suspendisse potenti. Donec orci risus, tristique in nibh quis, elementum lobortis orci. Cras sollicitudin arcu non nisl dapibus sodales. Maecenas sodales a magna in pulvinar.",
+      "extraInfo": "Some extra information about this episode",
+      "duration": "10:18",
+      "date": "15/06/2020"
+    },
+    {
+      "episodeId": "2",
+      "title": "Episode 2",
+      "description": "Donec risus leo, scelerisque id risus eu, luctus volutpat massa. Quisque sapien nisl, pharetra id ullamcorper laoreet, dapibus nec sem. Cras eu nunc in massa efficitur auctor. Proin mattis ante eu leo auctor, et pretium nisl aliquam. Vestibulum risus sem, porta eu lobortis a, faucibus eu ipsum. Aliquam erat ante, rutrum ac dui eget, mollis faucibus augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget vulputate risus. Nullam augue mi, tristique ac velit quis, scelerisque laoreet nisi.",
+      "extraInfo": "Some extra information about this episode",
+      "duration": "09:16",
+      "date": "09/10/2022"
+    },
+    {
+      "episodeId": "3",
+      "title": "Episode 3",
+      "description": "Sed vulputate lacus id turpis tempor convallis. Phasellus malesuada elit vel efficitur lacinia. Cras tincidunt sollicitudin sapien, vel convallis nulla elementum nec. Sed nec augue hendrerit, sollicitudin tellus eget, rutrum ipsum. Donec mauris libero, pretium ac efficitur sit amet, posuere et nulla. Nunc finibus diam neque, nec eleifend ipsum suscipit eget. Nulla tempor odio ac metus malesuada blandit. Proin porta elit in ante tempor, eget laoreet ante elementum. Aliquam ut dolor tellus.",
+      "extraInfo": "Some extra information about this episode",
+      "duration": "18:38",
+      "date": "10/07/2017"
+    },
+    {
+      "episodeId": "4",
+      "title": "Episode 4",
+      "description": "Nullam varius consequat sem, ut tristique metus efficitur non. Mauris tincidunt rutrum fermentum. Ut ut leo porttitor, vestibulum purus quis, placerat nisl. Quisque feugiat imperdiet arcu maximus facilisis. Pellentesque accumsan cursus suscipit. Etiam fringilla facilisis orci ac ultricies. Morbi vulputate velit in massa tempus congue.",
+      "extraInfo": "Some extra information about this episode",
+      "duration": "07:45",
+      "date": "12/11/2020"
+    },
+    {
+      "episodeId": "5",
+      "title": "Episode 5",
+      "description": "Praesent vitae hendrerit enim. Ut ac malesuada nunc, vitae placerat nisi. Duis non mauris sodales, tempus elit at, efficitur augue. Cras in mattis nunc. Vestibulum sed iaculis lectus. Suspendisse ac velit ac tellus tristique imperdiet ut id sem. Fusce dictum lectus eget libero ornare, non iaculis lorem dictum. Pellentesque ultrices interdum lacus eu aliquet. Etiam at ultricies erat. Maecenas fringilla justo non eros elementum, at sodales diam pretium. Integer volutpat sed elit non mollis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+      "extraInfo": "Some extra information about this episode",
+      "duration": "15:09",
+      "date": "14/08/2021"
+    },
+    {
+      "episodeId": "6",
+      "title": "Episode 6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam at lectus massa. Donec vitae finibus neque. Morbi posuere viverra feugiat. Praesent non enim ac leo semper molestie dignissim quis diam. Mauris fermentum turpis sit amet mauris interdum pulvinar. Suspendisse potenti. Donec orci risus, tristique in nibh quis, elementum lobortis orci. Cras sollicitudin arcu non nisl dapibus sodales. Maecenas sodales a magna in pulvinar.",
+      "extraInfo": "Some extra information about this episode",
+      "duration": "19:08",
+      "date": "11/07/2010"
+    },
+    {
+      "episodeId": "7",
+      "title": "Episode 7",
+      "description": "Donec risus leo, scelerisque id risus eu, luctus volutpat massa. Quisque sapien nisl, pharetra id ullamcorper laoreet, dapibus nec sem. Cras eu nunc in massa efficitur auctor. Proin mattis ante eu leo auctor, et pretium nisl aliquam. Vestibulum risus sem, porta eu lobortis a, faucibus eu ipsum. Aliquam erat ante, rutrum ac dui eget, mollis faucibus augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget vulputate risus. Nullam augue mi, tristique ac velit quis, scelerisque laoreet nisi.",
+      "extraInfo": "Some extra information about this episode",
+      "duration": "21:34",
+      "date": "30/01/2021"
+    },
+    {
+      "episodeId": "8",
+      "title": "Episode 8",
+      "description": "Sed vulputate lacus id turpis tempor convallis. Phasellus malesuada elit vel efficitur lacinia. Cras tincidunt sollicitudin sapien, vel convallis nulla elementum nec. Sed nec augue hendrerit, sollicitudin tellus eget, rutrum ipsum. Donec mauris libero, pretium ac efficitur sit amet, posuere et nulla. Nunc finibus diam neque, nec eleifend ipsum suscipit eget. Nulla tempor odio ac metus malesuada blandit. Proin porta elit in ante tempor, eget laoreet ante elementum. Aliquam ut dolor tellus.",
+      "extraInfo": "Some extra information about this episode",
+      "duration": "56:23",
+      "date": "23/08/2019"
+    }
+  ]
+}

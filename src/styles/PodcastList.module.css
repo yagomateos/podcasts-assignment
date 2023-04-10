@@ -1,0 +1,38 @@
+.container {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.podcasts {
+  display: grid;
+  gap: 2rem;
+  margin-top: 30px;
+  margin-right: 1rem;
+}
+
+@media (min-width: 664px) {
+  .podcasts {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (min-width: 1200px) {
+  .podcasts {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+.formulario {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 15px;
+  margin-left: 72%;
+  width: 25%; /* Ancho del formulario */
+  margin-right: 3%; /* Margen derecho de 20px */
+}
+
+.formulario .badge {
+  margin-right: 10px; /* Separación de la insignia del input */
+  font-size: 20px;
+}

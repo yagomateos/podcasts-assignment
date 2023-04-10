@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import { Card } from "react-bootstrap";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 //Styles
 import styles from "../../../../styles/EpisodeDetails.module.css";

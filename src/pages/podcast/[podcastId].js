@@ -5,6 +5,7 @@ import { Card } from "react-bootstrap";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Link from "next/link";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 //Styles
 import styles from "../../styles/PodcastDetails.module.css";

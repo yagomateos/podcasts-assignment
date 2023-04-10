@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import Podcast from "./Podcast";
 import Form from "react-bootstrap/Form";
 import Badge from "react-bootstrap/Badge";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 //Styles
 import styles from "../styles/PodcastList.module.css";

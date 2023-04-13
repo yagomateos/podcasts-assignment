@@ -13,7 +13,7 @@ El programa se puede ejecutar con el comando "npm run dev" para ejecutarse en mo
 
 <p>En este caso index.js contiene el header y PodcastList. El header es unicamente la navbar superior que pone podcaster. El PodcastList contiene la barra de filtrado de los podcast. Esta barra de filtrado funciona usando el array de objetos podcast que se tiene en la pestaña y filtra acorde lo que se introduce por parte del usuario. Luego, a mayores tiene una llamada a un componente Podcast por cada podcast en ese mismo array.</p>
 
-<p>Esto funciona de la misma manera que en anterior proyecto funcionaban las prendas de ropa de mayoral. Este objeto Podcast es un display del podcast con un elemento Link que lo contiene, con una ruta especificada tal que “podcast/${podcastId}”, lo que te redireccionara a la pestaña especifica del podcast que clickes.</p>
+<p>Este objeto Podcast es un display del podcast con un elemento Link que lo contiene, con una ruta especificada tal que “podcast/${podcastId}”, lo que te redireccionara a la pestaña especifica del podcast que clickes.</p>
 
 <p>El podcastId se indica así en la url porque es un elemento variable ya que según el podcast que se clicke varía. En esta nueva pestaña de podcsst tenemos la informacion relativa al podcsst, se consulta o a la API o a local storage. Para la informacion especifica de un podcast se hace una llamada a una ruta definida en la carpeta pages/api.</p>
 

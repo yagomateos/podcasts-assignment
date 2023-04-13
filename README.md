@@ -1,5 +1,5 @@
 <h2>Instalación</h2><br>
-Previamente antes de ejecutar es necesario instalar las siguientes dependencias:
+Previamente antes de ejecutar es necesario instalar las siguientes dependencias:<br>
 
 - npm install react-bootstrap
 - npm install bootstrap
@@ -9,7 +9,7 @@ Previamente antes de ejecutar es necesario instalar las siguientes dependencias:
 
 El programa se puede ejecutar con el comando "npm run dev" para ejecutarse en modo de desarrollo y con el comando "npm run prod" para ejecutarse en modo de producción.
 
-<h2>COMO FUNCIONA</h2><br>
+<h2>Como funciona</h2><br>
 
 <p>En este caso index.js contiene el header y PodcastList. El header es unicamente la navbar superior que pone podcaster. El PodcastList contiene la barra de filtrado de los podcast. Esta barra de filtrado funciona usando el array de objetos podcast que se tiene en la pestaña y filtra acorde lo que se introduce por parte del usuario. Luego, a mayores tiene una llamada a un componente Podcast por cada podcast en ese mismo array.</p>
 

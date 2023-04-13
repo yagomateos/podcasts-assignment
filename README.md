@@ -1,4 +1,5 @@
 <h2>Instalación</h2><br>
+
 Previamente antes de ejecutar es necesario instalar las siguientes dependencias:<br>
 
 - npm install react-bootstrap
